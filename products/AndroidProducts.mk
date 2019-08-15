@@ -20,6 +20,7 @@
     $(LOCAL_DIR)/gemini/pa_gemini.mk \
     $(LOCAL_DIR)/oneplus3/pa_oneplus3.mk \
     $(LOCAL_DIR)/polaris/pa_polaris.mk \
+    $(LOCAL_DIR)/rolex/pa_rolex.mk \
     $(LOCAL_DIR)/sagit/pa_sagit.mk \
 
 # SONY OpenDevices
