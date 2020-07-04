@@ -38,6 +38,9 @@ PRODUCT_NAME := pa_rolex
 # Bootanimation
 TARGET_BOOT_ANIMATION_RES := 720
 
+# For proper Dailer support
+IS_PHONE := true
+
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_VENDOR_PRODUCT_NAME := rolex
